@@ -1,0 +1,17 @@
+{
+  "name": "DAC160",
+  "description": "Dashboard mounted webcam, intrinsics specified at 1080p",
+  "imageWidth": 1920,
+  "imageHeight": 1080,
+  "intrinsics": {
+    "focalLengthX": 1130.4020158461176,
+    "focalLengthY": 1130.4020158461176,
+    "principalPointX": 983.4158455717175,
+    "principalPointY": 595.2474746817968,
+    "distortionR2": 0.0727901060719865,
+    "distortionR4": -0.11328055659127105,
+    "distortionT1": 0.0,
+    "distortionT2": 0.0,
+    "distortionR6": 0.0
+  }
+}
